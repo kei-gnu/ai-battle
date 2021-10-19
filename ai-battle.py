@@ -6,7 +6,7 @@ import numpy as np
 from numpy.core.fromnumeric import put
 from numpy.lib.function_base import append
 
-# start = time.time()
+start = time.time()
 
 # 地形情報
 WALL = 0
@@ -686,5 +686,5 @@ now_piece_map = startyx_piece_map(not_piece_map, piece_info)
 backup_start_piece_map = copy.deepcopy(now_piece_map)
 # 移動開始
 piece_max_number_of_moves(piece_info, now_piece_map)
-# elapsed_time = time.time() - start 
-# print("elapsed_time:{0}".format(elapsed_time) + "sec")
+elapsed_time = time.time() - start 
+print("elapsed_time:{0}".format(elapsed_time) + "sec")
