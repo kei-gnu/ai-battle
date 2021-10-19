@@ -1,0 +1,1620 @@
+toltal:  start_player1:ARM_DESTROYER_AI, start_player2CASTLE_DESTROYER_AI
+Starting game number 1...
+  2  2  2  1  3  1  a  c  a  1  1  1  1  2  1
+  2  1  1  1  1  s  s  k  s  s  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  S  S  K  S  S  1  1  1  1  2
+  2  1  1  1  1  1  A  C  A  1  1  1  1  1  0
+Current position:
+  2  2  2  1  3  1  a  c  a  1  1  1  1  2  1
+  2  1  1  1  1  s  s  k  s  s  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  S  2  3  S  1  1  1  1  2  3
+  3  2  2  2  1  S  3  1  S  0  0  1  1  0  0
+  2  2  0  0  1  1  1  K  1  1  0  1  1  3  3
+  2  2  1  1  1  1  A  1  A  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 11, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 10, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 9, x = 8, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 9, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 10, x = 8, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 12, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 12, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 1, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 1, x = 6, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 1, x = 8, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 1, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 1, x = 9, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 0, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 0, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player1 move 1 finished
+Current position:
+  2  2  2  1  3  1  a  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  s  a  1  1  1  1  2  2  1
+  1  1  1  3  3  1  k  s  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  s  3  0  0  0  2  1  1
+  1  1  2  2  2  s  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  S  2  3  S  1  1  1  1  2  3
+  3  2  2  2  1  S  3  1  S  0  0  1  1  0  0
+  2  2  0  0  1  1  1  K  1  1  0  1  1  3  3
+  2  2  1  1  1  1  A  1  A  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 11, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 10, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 9, x = 8, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 9, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 10, x = 8, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 12, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 12, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 2, x = 6, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 4, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 3, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 1, x = 6, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 2, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 1, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 0, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player2 move 1 finished
+Current position:
+  2  2  2  1  3  1  a  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  s  a  1  1  1  1  2  2  1
+  1  1  1  3  3  1  k  s  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  s  3  0  0  0  2  1  1
+  1  1  2  2  2  s  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  S  S  2  S  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  S  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  K  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  A  0  0  1  1  0  0
+  2  2  0  0  1  A  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 9, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 6, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 6, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 6, x = 4, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 7, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 11, x = 5, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 10, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 2, x = 6, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 4, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 3, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 1, x = 6, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 2, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 1, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 0, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player1 move 2 finished
+Starting battle between Player2 Soldier1 at (5, 4) and Player1 Soldie3 at (6, 4)
+Attacked piece hp after attack: 72
+Counter attack between Player1 Soldie3 at (6, 4) and Player2 Soldier1 at (5, 4)
+Attacking piece hp after attack: 70
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  a  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  k  a  3  0  0  0  2  1  1
+  1  1  2  2  2  s  1  s  3  1  1  2  2  3  3
+  3  3  1  1  s  3  s  3  3  2  2  2  2  2  2
+  2  2  2  1  S  S  2  S  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  S  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  K  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  A  0  0  1  1  0  0
+  2  2  0  0  1  A  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 9, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 6, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 6, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 6, x = 4, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 7, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 11, x = 5, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 10, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 3, x = 6, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 5, x = 4, HP = 70, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 5, x = 6, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 4, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 4, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 3, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 1, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player2 move 2 finished
+Starting battle between Player1 Knight at (5, 7) and Player2 Soldier2 at (5, 6)
+Attacked piece hp after attack: 51
+Counter attack between Player2 Soldier2 at (5, 6) and Player1 Knight at (5, 7)
+Attacking piece hp after attack: 100
+Starting battle between Player1 Soldier1 at (5, 3) and Player2 Soldier1 at (5, 4)
+Attacked piece hp after attack: 60
+Counter attack between Player2 Soldier1 at (5, 4) and Player1 Soldier1 at (5, 3)
+Attacking piece hp after attack: 72
+Starting battle between Player1 Soldier2 at (5, 5) and Player2 Soldier2 at (5, 6)
+Attacked piece hp after attack: 51
+Counter attack between Player2 Soldier2 at (5, 6) and Player1 Soldier2 at (5, 5)
+Attacking piece hp after attack: 80
+Starting battle between Player1 Soldie3 at (6, 4) and Player2 Soldier1 at (5, 4)
+Attacked piece hp after attack: 50
+Counter attack between Player2 Soldier1 at (5, 4) and Player1 Soldie3 at (6, 4)
+Attacking piece hp after attack: 64
+Starting battle between Player1 Soldier4 at (6, 6) and Player2 Soldier2 at (5, 6)
+Attacked piece hp after attack: 51
+Counter attack between Player2 Soldier2 at (5, 6) and Player1 Soldier4 at (6, 6)
+Attacking piece hp after attack: 70
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  a  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  k  a  3  0  0  0  2  1  1
+  1  1  2  2  2  s  1  s  3  1  1  2  2  3  3
+  3  3  1  S  s  S  s  K  3  2  2  2  2  2  2
+  2  2  2  1  S  1  S  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  A  2  A  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 3, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 6, x = 4, HP = 64, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 6, x = 6, HP = 70, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 8, x = 5, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 8, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 3, x = 6, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 5, x = 4, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 5, x = 6, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 4, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 4, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 3, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 1, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player1 move 3 finished
+Starting battle between Player2 Soldier1 at (5, 4) and Player1 Soldie3 at (6, 4)
+Attacked piece hp after attack: 56
+Counter attack between Player1 Soldie3 at (6, 4) and Player2 Soldier1 at (5, 4)
+Attacking piece hp after attack: 40
+Starting battle between Player2 Soldier2 at (5, 6) and Player1 Soldier4 at (6, 6)
+Attacked piece hp after attack: 60
+Counter attack between Player1 Soldier4 at (6, 6) and Player2 Soldier2 at (5, 6)
+Attacking piece hp after attack: 51
+Starting battle between Player2 Soldier3 at (4, 5) and Player1 Soldier2 at (5, 5)
+Attacked piece hp after attack: 80
+Counter attack between Player1 Soldier2 at (5, 5) and Player2 Soldier3 at (4, 5)
+Attacking piece hp after attack: 72
+Starting battle between Player2 Soldier4 at (5, 8) and Player1 Knight at (5, 7)
+Attacked piece hp after attack: 100
+Counter attack between Player1 Knight at (5, 7) and Player2 Soldier4 at (5, 8)
+Attacking piece hp after attack: 51
+Starting battle between Player2 Archer1 at (4, 7) and Player1 Knight at (5, 7)
+Attacked piece hp after attack: 90
+Counter attack between Player1 Knight at (5, 7) and Player2 Archer1 at (4, 7)
+Attacking piece hp after attack: 50
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  a  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  s  k  a  3  1  1  2  2  3  3
+  3  3  1  S  s  S  s  K  s  2  2  2  2  2  2
+  2  2  2  1  S  1  S  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  A  2  A  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 90, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 3, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 6, x = 4, HP = 56, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 6, x = 6, HP = 60, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 8, x = 5, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 8, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 4, x = 6, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 5, x = 4, HP = 40, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 5, x = 6, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 4, x = 5, HP = 72, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 5, x = 8, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 4, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 2, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player2 move 3 finished
+Starting battle between Player1 Knight at (5, 7) and Player2 Archer1 at (4, 7)
+Attacked piece hp after attack: 50
+Counter attack between Player2 Archer1 at (4, 7) and Player1 Knight at (5, 7)
+Attacking piece hp after attack: 80
+Starting battle between Player1 Soldier1 at (5, 3) and Player2 Soldier1 at (5, 4)
+Attacked piece hp after attack: 30
+Counter attack between Player2 Soldier1 at (5, 4) and Player1 Soldier1 at (5, 3)
+Attacking piece hp after attack: 64
+Starting battle between Player1 Soldier2 at (5, 5) and Player2 Soldier1 at (5, 4)
+Attacked piece hp after attack: 20
+Counter attack between Player2 Soldier1 at (5, 4) and Player1 Soldier2 at (5, 5)
+Attacking piece hp after attack: 80
+Starting battle between Player1 Soldie3 at (6, 4) and Player2 Soldier1 at (5, 4)
+Attacked piece hp after attack: 10
+Counter attack between Player2 Soldier1 at (5, 4) and Player1 Soldie3 at (6, 4)
+Attacking piece hp after attack: 48
+Starting battle between Player1 Soldier4 at (6, 6) and Player2 Soldier2 at (5, 6)
+Attacked piece hp after attack: 51
+Counter attack between Player2 Soldier2 at (5, 6) and Player1 Soldier4 at (6, 6)
+Attacking piece hp after attack: 50
+Starting battle between Player1 Archer2 at (6, 8) and Player2 Soldier4 at (5, 8)
+Attacked piece hp after attack: 51
+Counter attack between Player2 Soldier4 at (5, 8) and Player1 Archer2 at (6, 8)
+Attacking piece hp after attack: 15
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  a  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  s  k  a  3  1  1  2  2  3  3
+  3  3  1  S  s  S  s  K  s  2  2  2  2  2  2
+  2  2  2  1  S  A  S  2  A  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 80, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 3, HP = 64, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 6, x = 4, HP = 48, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 6, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 6, x = 5, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 6, x = 8, HP = 15, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 4, x = 6, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 5, x = 4, HP = 10, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 5, x = 6, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 4, x = 5, HP = 72, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 5, x = 8, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 4, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 2, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player1 move 4 finished
+Starting battle between Player2 Soldier1 at (5, 4) and Player1 Soldie3 at (6, 4)
+Attacked piece hp after attack: 40
+Counter attack between Player1 Soldie3 at (6, 4) and Player2 Soldier1 at (5, 4)
+Attacking piece hp after attack: 0
+Starting battle between Player2 Soldier2 at (5, 6) and Player1 Soldier4 at (6, 6)
+Attacked piece hp after attack: 40
+Counter attack between Player1 Soldier4 at (6, 6) and Player2 Soldier2 at (5, 6)
+Attacking piece hp after attack: 51
+Starting battle between Player2 Soldier3 at (4, 5) and Player1 Soldier2 at (5, 5)
+Attacked piece hp after attack: 80
+Counter attack between Player1 Soldier2 at (5, 5) and Player2 Soldier3 at (4, 5)
+Attacking piece hp after attack: 64
+Starting battle between Player2 Soldier4 at (6, 9) and Player1 Archer2 at (6, 8)
+Attacked piece hp after attack: -20
+Attackied piece dead in battle: Player1 Archer2
+Starting battle between Player2 Archer1 at (4, 7) and Player1 Knight at (5, 7)
+Attacked piece hp after attack: 70
+Counter attack between Player1 Knight at (5, 7) and Player2 Archer1 at (4, 7)
+Attacking piece hp after attack: 50
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  a  1  3  0  0  0  2  1  1
+  1  1  2  2  2  s  k  a  3  1  1  2  2  3  3
+  3  3  1  S  s  S  s  K  3  2  2  2  2  2  2
+  2  2  2  1  S  A  S  2  2  s  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 70, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 3, HP = 64, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 6, x = 4, HP = 40, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 6, x = 6, HP = 40, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 6, x = 5, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 4, x = 6, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 5, x = 4, HP = 0, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 5, x = 6, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 4, x = 5, HP = 64, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 6, x = 9, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 4, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 3, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player2 move 4 finished
+Starting battle between Player1 Knight at (5, 7) and Player2 Archer1 at (4, 7)
+Attacked piece hp after attack: 50
+Counter attack between Player2 Archer1 at (4, 7) and Player1 Knight at (5, 7)
+Attacking piece hp after attack: 60
+Starting battle between Player1 Soldier1 at (5, 3) and Player2 Soldier1 at (5, 4)
+Attacked piece hp after attack: -10
+Attackied piece dead in battle: Player2 Soldier1
+Starting battle between Player1 Soldier2 at (5, 5) and Player2 Soldier2 at (5, 6)
+Attacked piece hp after attack: 51
+Counter attack between Player2 Soldier2 at (5, 6) and Player1 Soldier2 at (5, 5)
+Attacking piece hp after attack: 80
+Starting battle between Player1 Soldier4 at (6, 6) and Player2 Soldier2 at (5, 6)
+Attacked piece hp after attack: 51
+Counter attack between Player2 Soldier2 at (5, 6) and Player1 Soldier4 at (6, 6)
+Attacking piece hp after attack: 30
+Starting battle between Player1 Archer1 at (6, 8) and Player2 Soldier4 at (6, 9)
+Attacked piece hp after attack: 51
+Counter attack between Player2 Soldier4 at (6, 9) and Player1 Archer1 at (6, 8)
+Attacking piece hp after attack: 15
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  a  1  3  0  0  0  2  1  1
+  1  1  2  2  2  s  k  a  3  1  1  2  2  3  3
+  3  3  1  S  2  S  s  K  3  2  2  2  2  2  2
+  2  2  2  1  S  1  S  2  A  s  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 60, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 3, HP = 64, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 6, x = 4, HP = 40, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 6, x = 6, HP = 30, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 6, x = 8, HP = 15, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 4, x = 6, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 5, x = 6, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 4, x = 5, HP = 64, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 6, x = 9, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 4, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 3, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player1 move 5 finished
+Starting battle between Player2 Soldier2 at (5, 6) and Player1 Soldier4 at (6, 6)
+Attacked piece hp after attack: 20
+Counter attack between Player1 Soldier4 at (6, 6) and Player2 Soldier2 at (5, 6)
+Attacking piece hp after attack: 51
+Starting battle between Player2 Soldier3 at (5, 4) and Player1 Soldie3 at (6, 4)
+Attacked piece hp after attack: 32
+Counter attack between Player1 Soldie3 at (6, 4) and Player2 Soldier3 at (5, 4)
+Attacking piece hp after attack: 54
+Starting battle between Player2 Archer1 at (4, 7) and Player1 Knight at (5, 7)
+Attacked piece hp after attack: 50
+Counter attack between Player1 Knight at (5, 7) and Player2 Archer1 at (4, 7)
+Attacking piece hp after attack: 50
+Starting battle between Player2 Archer2 at (4, 5) and Player1 Soldier2 at (5, 5)
+Attacked piece hp after attack: 80
+Counter attack between Player1 Soldier2 at (5, 5) and Player2 Archer2 at (4, 5)
+Attacking piece hp after attack: 17
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  a  k  a  3  1  1  2  2  3  3
+  3  3  1  S  s  S  s  K  3  2  2  2  2  2  2
+  2  2  2  1  S  1  S  2  A  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  s  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 50, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 3, HP = 64, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 6, x = 4, HP = 32, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 6, x = 6, HP = 20, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 6, x = 8, HP = 15, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 4, x = 6, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 5, x = 6, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 5, x = 4, HP = 54, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 7, x = 10, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 4, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 4, x = 5, HP = 17, att = 50, def = 40, mvp = 5
+Player2 move 5 finished
+Starting battle between Player1 Knight at (5, 7) and Player2 Archer1 at (4, 7)
+Attacked piece hp after attack: 50
+Counter attack between Player2 Archer1 at (4, 7) and Player1 Knight at (5, 7)
+Attacking piece hp after attack: 40
+Starting battle between Player1 Soldier1 at (5, 3) and Player2 Soldier3 at (5, 4)
+Attacked piece hp after attack: 44
+Counter attack between Player2 Soldier3 at (5, 4) and Player1 Soldier1 at (5, 3)
+Attacking piece hp after attack: 56
+Starting battle between Player1 Soldier2 at (5, 5) and Player2 Archer2 at (4, 5)
+Attacked piece hp after attack: -16
+Attackied piece dead in battle: Player2 Archer2
+Starting battle between Player1 Soldie3 at (6, 4) and Player2 Soldier3 at (5, 4)
+Attacked piece hp after attack: 34
+Counter attack between Player2 Soldier3 at (5, 4) and Player1 Soldie3 at (6, 4)
+Attacking piece hp after attack: 24
+Starting battle between Player1 Soldier4 at (6, 6) and Player2 Soldier2 at (5, 6)
+Attacked piece hp after attack: 51
+Counter attack between Player2 Soldier2 at (5, 6) and Player1 Soldier4 at (6, 6)
+Attacking piece hp after attack: 10
+Starting battle between Player1 Archer1 at (6, 10) and Player2 Soldier4 at (7, 10)
+Attacked piece hp after attack: 51
+Counter attack between Player2 Soldier4 at (7, 10) and Player1 Archer1 at (6, 10)
+Attacking piece hp after attack: -20
+Attacking piece dead in battle: Player1 Archer1
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  k  a  3  1  1  2  2  3  3
+  3  3  1  S  s  S  s  K  3  2  2  2  2  2  2
+  2  2  2  1  S  1  S  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  s  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 40, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 3, HP = 56, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 6, x = 4, HP = 24, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 6, x = 6, HP = 10, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 4, x = 6, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 5, x = 6, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 5, x = 4, HP = 34, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 7, x = 10, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 4, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player1 move 6 finished
+Starting battle between Player2 Soldier2 at (5, 6) and Player1 Soldier4 at (6, 6)
+Attacked piece hp after attack: 0
+Counter attack between Player1 Soldier4 at (6, 6) and Player2 Soldier2 at (5, 6)
+Attacking piece hp after attack: 51
+Starting battle between Player2 Soldier3 at (5, 4) and Player1 Soldie3 at (6, 4)
+Attacked piece hp after attack: 16
+Counter attack between Player1 Soldie3 at (6, 4) and Player2 Soldier3 at (5, 4)
+Attacking piece hp after attack: 24
+Starting battle between Player2 Archer1 at (4, 7) and Player1 Knight at (5, 7)
+Attacked piece hp after attack: 30
+Counter attack between Player1 Knight at (5, 7) and Player2 Archer1 at (4, 7)
+Attacking piece hp after attack: 50
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  k  a  3  1  1  2  2  3  3
+  3  3  1  S  s  S  s  K  3  2  2  2  2  2  2
+  2  2  2  1  S  1  S  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  s  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 30, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 3, HP = 56, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 6, x = 4, HP = 16, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 6, x = 6, HP = 0, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 4, x = 6, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 5, x = 6, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 5, x = 4, HP = 24, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 9, x = 9, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 4, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 move 6 finished
+Starting battle between Player1 Knight at (5, 7) and Player2 Archer1 at (4, 7)
+Attacked piece hp after attack: 50
+Counter attack between Player2 Archer1 at (4, 7) and Player1 Knight at (5, 7)
+Attacking piece hp after attack: 20
+Starting battle between Player1 Soldier1 at (5, 3) and Player2 Soldier3 at (5, 4)
+Attacked piece hp after attack: 14
+Counter attack between Player2 Soldier3 at (5, 4) and Player1 Soldier1 at (5, 3)
+Attacking piece hp after attack: 48
+Starting battle between Player1 Soldier2 at (5, 5) and Player2 Soldier3 at (5, 4)
+Attacked piece hp after attack: 4
+Counter attack between Player2 Soldier3 at (5, 4) and Player1 Soldier2 at (5, 5)
+Attacking piece hp after attack: 80
+Starting battle between Player1 Soldie3 at (6, 4) and Player2 Soldier3 at (5, 4)
+Attacked piece hp after attack: -6
+Attackied piece dead in battle: Player2 Soldier3
+Starting battle between Player1 Soldier4 at (6, 6) and Player2 Soldier2 at (5, 6)
+Attacked piece hp after attack: 51
+Counter attack between Player2 Soldier2 at (5, 6) and Player1 Soldier4 at (6, 6)
+Attacking piece hp after attack: -10
+Attacking piece dead in battle: Player1 Soldier4
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  k  a  3  1  1  2  2  3  3
+  3  3  1  S  2  S  s  K  3  2  2  2  2  2  2
+  2  2  2  1  S  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  s  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 20, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 3, HP = 48, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 6, x = 4, HP = 16, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 4, x = 6, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 5, x = 6, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 9, x = 9, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 4, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player1 move 7 finished
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  a  3  3  1  1  2  2  3  3
+  3  3  1  S  2  S  3  K  3  2  2  2  2  2  2
+  2  2  2  1  S  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  k  s  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  s  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 20, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 3, HP = 48, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 6, x = 4, HP = 16, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 8, x = 6, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 8, x = 7, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 11, x = 7, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 4, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player2 move 7 finished
+Starting battle between Player1 Knight at (4, 7) and Player2 Archer1 at (4, 6)
+Attacked piece hp after attack: 44
+Counter attack between Player2 Archer1 at (4, 6) and Player1 Knight at (4, 7)
+Attacking piece hp after attack: 10
+Starting battle between Player1 Soldier1 at (4, 5) and Player2 Archer1 at (4, 6)
+Attacked piece hp after attack: 11
+Counter attack between Player2 Archer1 at (4, 6) and Player1 Soldier1 at (4, 5)
+Attacking piece hp after attack: 48
+Starting battle between Player1 Soldier2 at (3, 6) and Player2 Archer1 at (4, 6)
+Attacked piece hp after attack: -22
+Attackied piece dead in battle: Player2 Archer1
+Starting battle between Player1 Soldie3 at (7, 6) and Player2 Knight at (8, 6)
+Attacked piece hp after attack: 100
+Counter attack between Player2 Knight at (8, 6) and Player1 Soldie3 at (7, 6)
+Attacking piece hp after attack: -25
+Attacking piece dead in battle: Player1 Soldie3
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  S  1  3  0  0  0  2  1  1
+  1  1  2  2  2  S  1  K  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  k  s  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  s  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 4, x = 7, HP = 10, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 4, x = 5, HP = 48, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 3, x = 6, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 8, x = 6, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 8, x = 7, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 11, x = 7, HP = 51, att = 50, def = 40, mvp = 5
+Player1 move 8 finished
+Starting battle between Player2 Soldier4 at (13, 7) and Player1 Castle at (14, 7)
+Attacked piece hp after attack: 132
+Counter attack between Player1 Castle at (14, 7) and Player2 Soldier4 at (13, 7)
+Attacking piece hp after attack: 3
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  S  1  3  0  0  0  2  1  1
+  1  1  2  2  2  S  1  K  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  k  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  s  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  s  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 132, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 4, x = 7, HP = 10, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 4, x = 5, HP = 48, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 3, x = 6, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 9, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 10, x = 7, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 13, x = 7, HP = 3, att = 50, def = 40, mvp = 5
+Player2 move 8 finished
+Starting battle between Player1 Knight at (8, 7) and Player2 Knight at (9, 7)
+Attacked piece hp after attack: 87
+Counter attack between Player2 Knight at (9, 7) and Player1 Knight at (8, 7)
+Attacking piece hp after attack: -15
+Attacking piece dead in battle: Player1 Knight
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  S  2  2  2  2  2  1  2  2
+  3  3  2  1  1  S  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  k  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  s  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  s  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 132, att = 90, def = 30, mvp = 1
+Player1 Soldier1 info: y = 7, x = 5, HP = 48, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 6, x = 6, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 9, x = 7, HP = 87, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 10, x = 7, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 13, x = 7, HP = 3, att = 50, def = 40, mvp = 5
+Player1 move 9 finished
+Starting battle between Player2 Soldier4 at (13, 7) and Player1 Castle at (14, 7)
+Attacked piece hp after attack: 114
+Counter attack between Player1 Castle at (14, 7) and Player2 Soldier4 at (13, 7)
+Attacking piece hp after attack: -45
+Attacking piece dead in battle: Player2 Soldier4
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  S  2  2  2  2  2  1  2  2
+  3  3  2  1  1  S  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  k  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  s  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 114, att = 90, def = 30, mvp = 1
+Player1 Soldier1 info: y = 7, x = 5, HP = 48, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 6, x = 6, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 10, x = 8, HP = 87, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 12, x = 7, HP = 51, att = 50, def = 40, mvp = 5
+Player2 move 9 finished
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  S  S  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  k  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  s  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 114, att = 90, def = 30, mvp = 1
+Player1 Soldier1 info: y = 8, x = 8, HP = 48, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 8, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 10, x = 8, HP = 87, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 12, x = 7, HP = 51, att = 50, def = 40, mvp = 5
+Player1 move 10 finished
+Starting battle between Player2 Soldier2 at (13, 7) and Player1 Castle at (14, 7)
+Attacked piece hp after attack: 96
+Counter attack between Player1 Castle at (14, 7) and Player2 Soldier2 at (13, 7)
+Attacking piece hp after attack: 3
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  S  S  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  k  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  s  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 96, att = 90, def = 30, mvp = 1
+Player1 Soldier1 info: y = 8, x = 8, HP = 48, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 8, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 10, x = 7, HP = 87, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 13, x = 7, HP = 3, att = 50, def = 40, mvp = 5
+Player2 move 10 finished
+Starting battle between Player1 Soldier1 at (9, 7) and Player2 Knight at (10, 7)
+Attacked piece hp after attack: 87
+Counter attack between Player2 Knight at (10, 7) and Player1 Soldier1 at (9, 7)
+Attacking piece hp after attack: 19
+Starting battle between Player1 Soldier2 at (10, 6) and Player2 Knight at (10, 7)
+Attacked piece hp after attack: 87
+Counter attack between Player2 Knight at (10, 7) and Player1 Soldier2 at (10, 6)
+Attacking piece hp after attack: 51
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  S  1  1  1  1  1  2  3
+  3  2  2  2  1  1  S  k  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  s  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 96, att = 90, def = 30, mvp = 1
+Player1 Soldier1 info: y = 9, x = 7, HP = 19, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 10, x = 6, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 10, x = 7, HP = 87, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 13, x = 7, HP = 3, att = 50, def = 40, mvp = 5
+Player1 move 11 finished
+Starting battle between Player2 Soldier2 at (13, 7) and Player1 Castle at (14, 7)
+Attacked piece hp after attack: 78
+Counter attack between Player1 Castle at (14, 7) and Player2 Soldier2 at (13, 7)
+Attacking piece hp after attack: -45
+Attacking piece dead in battle: Player2 Soldier2
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  S  1  1  1  1  1  2  3
+  3  2  2  2  1  1  S  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  k  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 78, att = 90, def = 30, mvp = 1
+Player1 Soldier1 info: y = 9, x = 7, HP = 19, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 10, x = 6, HP = 51, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 11, x = 7, HP = 87, att = 65, def = 40, mvp = 8
+Player2 move 11 finished
+Starting battle between Player1 Soldier1 at (10, 7) and Player2 Knight at (11, 7)
+Attacked piece hp after attack: 87
+Counter attack between Player2 Knight at (11, 7) and Player1 Soldier1 at (10, 7)
+Attacking piece hp after attack: -20
+Attacking piece dead in battle: Player1 Soldier1
+Starting battle between Player1 Soldier2 at (10, 7) and Player2 Knight at (11, 7)
+Attacked piece hp after attack: 87
+Counter attack between Player2 Knight at (11, 7) and Player1 Soldier2 at (10, 7)
+Attacking piece hp after attack: 12
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  S  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  k  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 78, att = 90, def = 30, mvp = 1
+Player1 Soldier2 info: y = 10, x = 7, HP = 12, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 11, x = 7, HP = 87, att = 65, def = 40, mvp = 8
+Player1 move 12 finished
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  S  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  k  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 78, att = 90, def = 30, mvp = 1
+Player1 Soldier2 info: y = 10, x = 7, HP = 12, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 12, x = 7, HP = 87, att = 65, def = 40, mvp = 8
+Player2 move 12 finished
+Starting battle between Player1 Soldier2 at (11, 7) and Player2 Knight at (12, 7)
+Attacked piece hp after attack: 87
+Counter attack between Player2 Knight at (12, 7) and Player1 Soldier2 at (11, 7)
+Attacking piece hp after attack: -27
+Attacking piece dead in battle: Player1 Soldier2
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  k  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 78, att = 90, def = 30, mvp = 1
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 12, x = 7, HP = 87, att = 65, def = 40, mvp = 8
+Player1 move 13 finished
+Game over: all pieces of player1 are dead
+Army Destroyer AI wins.
+Game number 1 finished
+Current score: Army Destroyer AI - Castle Destroyer AI 1 - 0 (Draws: 0)
+toltal:  start_player1:CASTLE_DESTROYER_AI, start_player2ARM_DESTROYER_AI
+Starting game number 2...
+  2  2  2  1  3  1  a  c  a  1  1  1  1  2  1
+  2  1  1  1  1  s  s  k  s  s  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  S  S  K  S  S  1  1  1  1  2
+  2  1  1  1  1  1  A  C  A  1  1  1  1  1  0
+Current position:
+  2  2  2  1  3  1  a  c  a  1  1  1  1  2  1
+  2  1  1  1  1  s  s  k  s  s  1  1  2  2  1
+  1  1  1  3  3  1  1  1  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  1  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  S  2  3  S  1  1  1  1  2  3
+  3  2  2  2  1  S  3  1  S  0  0  1  1  0  0
+  2  2  0  0  1  1  1  K  1  1  0  1  1  3  3
+  2  2  1  1  1  1  A  1  A  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 11, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 10, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 9, x = 8, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 9, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 10, x = 8, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 12, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 12, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 1, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 1, x = 6, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 1, x = 8, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 1, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 1, x = 9, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 0, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 0, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player1 move 1 finished
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  s  1  1  a  1  1  1  2  2  1
+  1  1  1  3  3  s  a  1  k  1  1  2  2  2  1
+  1  1  0  0  3  s  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  s  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  S  2  3  S  1  1  1  1  2  3
+  3  2  2  2  1  S  3  1  S  0  0  1  1  0  0
+  2  2  0  0  1  1  1  K  1  1  0  1  1  3  3
+  2  2  1  1  1  1  A  1  A  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 11, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 10, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 9, x = 8, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 9, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 10, x = 8, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 12, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 12, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 2, x = 8, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 4, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 2, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 3, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 1, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 2, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 1, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player2 move 1 finished
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  s  1  1  a  1  1  1  2  2  1
+  1  1  1  3  3  s  a  1  k  1  1  2  2  2  1
+  1  1  0  0  3  s  1  1  3  0  0  0  2  1  1
+  1  1  2  2  2  s  1  3  3  1  1  2  2  3  3
+  3  3  1  1  2  3  3  3  3  2  2  2  2  2  2
+  2  2  2  1  S  S  2  S  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  S  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  K  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  A  0  0  1  1  0  0
+  2  2  0  0  1  A  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 9, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 6, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 6, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 6, x = 4, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 7, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 11, x = 5, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 10, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 2, x = 8, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 4, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 2, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 3, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 1, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 2, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 1, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player1 move 2 finished
+Starting battle between Player2 Soldier1 at (5, 4) and Player1 Soldie3 at (6, 4)
+Attacked piece hp after attack: 72
+Counter attack between Player1 Soldie3 at (6, 4) and Player2 Soldier1 at (5, 4)
+Attacking piece hp after attack: 70
+Starting battle between Player2 Soldier3 at (5, 5) and Player1 Soldier1 at (6, 5)
+Attacked piece hp after attack: 72
+Counter attack between Player1 Soldier1 at (6, 5) and Player2 Soldier3 at (5, 5)
+Attacking piece hp after attack: 80
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  a  1  1  1  2  2  2  1
+  1  1  0  0  s  3  1  k  3  0  0  0  2  1  1
+  1  1  2  2  2  s  a  3  3  1  1  2  2  3  3
+  3  3  1  1  s  s  3  3  3  2  2  2  2  2  2
+  2  2  2  1  S  S  2  S  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  S  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  K  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  A  0  0  1  1  0  0
+  2  2  0  0  1  A  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 9, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 6, x = 5, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 6, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 6, x = 4, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 7, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 11, x = 5, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 10, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 3, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 5, x = 4, HP = 70, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 3, x = 4, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 4, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer1 info: y = 4, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 2, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 move 2 finished
+Starting battle between Player1 Soldier1 at (5, 6) and Player2 Archer1 at (4, 6)
+Attacked piece hp after attack: 17
+Counter attack between Player2 Archer1 at (4, 6) and Player1 Soldier1 at (5, 6)
+Attacking piece hp after attack: 72
+Starting battle between Player1 Soldier2 at (4, 7) and Player2 Archer1 at (4, 6)
+Attacked piece hp after attack: -16
+Attackied piece dead in battle: Player2 Archer1
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  a  1  1  1  2  2  2  1
+  1  1  0  0  s  3  1  k  3  0  0  0  2  1  1
+  1  1  2  S  2  s  1  S  3  1  1  2  2  3  3
+  3  3  1  1  s  s  S  K  3  2  2  2  2  2  2
+  2  2  2  1  1  1  S  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  A  2  A  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 6, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 4, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 4, x = 3, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 6, x = 6, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 8, x = 5, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 8, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 3, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 5, x = 4, HP = 70, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 3, x = 4, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 4, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 2, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player1 move 3 finished
+Starting battle between Player2 Knight at (3, 7) and Player1 Soldier2 at (4, 7)
+Attacked piece hp after attack: 51
+Counter attack between Player1 Soldier2 at (4, 7) and Player2 Knight at (3, 7)
+Attacking piece hp after attack: 100
+Starting battle between Player2 Soldier1 at (4, 2) and Player1 Soldie3 at (4, 3)
+Attacked piece hp after attack: 62
+Counter attack between Player1 Soldie3 at (4, 3) and Player2 Soldier1 at (4, 2)
+Attacking piece hp after attack: 60
+Starting battle between Player2 Soldier2 at (4, 4) and Player1 Soldie3 at (4, 3)
+Attacked piece hp after attack: 52
+Counter attack between Player1 Soldie3 at (4, 3) and Player2 Soldier2 at (4, 4)
+Attacking piece hp after attack: 70
+Starting battle between Player2 Soldier3 at (5, 5) and Player1 Soldier1 at (5, 6)
+Attacked piece hp after attack: 72
+Counter attack between Player1 Soldier1 at (5, 6) and Player2 Soldier3 at (5, 5)
+Attacking piece hp after attack: 80
+Starting battle between Player2 Soldier4 at (4, 6) and Player1 Soldier2 at (4, 7)
+Attacked piece hp after attack: 51
+Counter attack between Player1 Soldier2 at (4, 7) and Player2 Soldier4 at (4, 6)
+Attacking piece hp after attack: 72
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  a  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  k  3  0  0  0  2  1  1
+  1  1  s  S  s  1  s  S  3  1  1  2  2  3  3
+  3  3  1  1  2  s  S  K  3  2  2  2  2  2  2
+  2  2  2  1  1  1  S  2  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  A  2  A  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 6, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 4, x = 7, HP = 51, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 4, x = 3, HP = 52, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 6, x = 6, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 8, x = 5, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 8, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 3, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 4, x = 2, HP = 60, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 4, x = 4, HP = 70, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 4, x = 6, HP = 72, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 2, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 move 3 finished
+Starting battle between Player1 Soldier1 at (5, 6) and Player2 Soldier4 at (4, 6)
+Attacked piece hp after attack: 64
+Counter attack between Player2 Soldier4 at (4, 6) and Player1 Soldier1 at (5, 6)
+Attacking piece hp after attack: 72
+Starting battle between Player1 Soldier2 at (4, 7) and Player2 Soldier4 at (4, 6)
+Attacked piece hp after attack: 56
+Counter attack between Player2 Soldier4 at (4, 6) and Player1 Soldier2 at (4, 7)
+Attacking piece hp after attack: 51
+Starting battle between Player1 Soldie3 at (4, 3) and Player2 Soldier1 at (4, 2)
+Attacked piece hp after attack: 50
+Counter attack between Player2 Soldier1 at (4, 2) and Player1 Soldie3 at (4, 3)
+Attacking piece hp after attack: 42
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  a  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  k  3  0  0  0  2  1  1
+  1  1  s  S  s  1  s  S  3  1  1  2  2  3  3
+  3  3  1  1  2  s  S  K  3  2  2  2  2  2  2
+  2  2  2  1  1  1  S  A  A  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 6, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 4, x = 7, HP = 51, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 4, x = 3, HP = 42, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 6, x = 6, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 6, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 6, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 3, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 4, x = 2, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 4, x = 4, HP = 70, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 4, x = 6, HP = 56, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 2, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player1 move 4 finished
+Starting battle between Player2 Knight at (3, 7) and Player1 Soldier2 at (4, 7)
+Attacked piece hp after attack: 22
+Counter attack between Player1 Soldier2 at (4, 7) and Player2 Knight at (3, 7)
+Attacking piece hp after attack: 100
+Starting battle between Player2 Soldier1 at (4, 2) and Player1 Soldie3 at (4, 3)
+Attacked piece hp after attack: 32
+Counter attack between Player1 Soldie3 at (4, 3) and Player2 Soldier1 at (4, 2)
+Attacking piece hp after attack: 40
+Starting battle between Player2 Soldier2 at (4, 4) and Player1 Soldie3 at (4, 3)
+Attacked piece hp after attack: 22
+Counter attack between Player1 Soldie3 at (4, 3) and Player2 Soldier2 at (4, 4)
+Attacking piece hp after attack: 60
+Starting battle between Player2 Soldier3 at (5, 5) and Player1 Soldier1 at (5, 6)
+Attacked piece hp after attack: 72
+Counter attack between Player1 Soldier1 at (5, 6) and Player2 Soldier3 at (5, 5)
+Attacking piece hp after attack: 80
+Starting battle between Player2 Soldier4 at (4, 6) and Player1 Soldier2 at (4, 7)
+Attacked piece hp after attack: 22
+Counter attack between Player1 Soldier2 at (4, 7) and Player2 Soldier4 at (4, 6)
+Attacking piece hp after attack: 48
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  a  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  k  3  0  0  0  2  1  1
+  1  1  s  S  s  1  s  S  3  1  1  2  2  3  3
+  3  3  1  1  2  s  S  K  3  2  2  2  2  2  2
+  2  2  2  1  1  1  S  A  A  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 6, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 4, x = 7, HP = 22, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 4, x = 3, HP = 22, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 6, x = 6, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 6, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 6, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 3, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 4, x = 2, HP = 40, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 4, x = 4, HP = 60, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 4, x = 6, HP = 48, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 2, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 move 4 finished
+Starting battle between Player1 Soldier1 at (5, 6) and Player2 Soldier4 at (4, 6)
+Attacked piece hp after attack: 40
+Counter attack between Player2 Soldier4 at (4, 6) and Player1 Soldier1 at (5, 6)
+Attacking piece hp after attack: 72
+Starting battle between Player1 Soldier2 at (4, 7) and Player2 Soldier4 at (4, 6)
+Attacked piece hp after attack: 32
+Counter attack between Player2 Soldier4 at (4, 6) and Player1 Soldier2 at (4, 7)
+Attacking piece hp after attack: 22
+Starting battle between Player1 Soldie3 at (4, 3) and Player2 Soldier1 at (4, 2)
+Attacked piece hp after attack: 30
+Counter attack between Player2 Soldier1 at (4, 2) and Player1 Soldie3 at (4, 3)
+Attacking piece hp after attack: 12
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  a  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  k  3  0  0  0  2  1  1
+  1  1  s  S  s  1  s  S  3  1  1  2  2  3  3
+  3  3  1  1  2  s  S  K  3  2  2  2  2  2  2
+  2  2  2  1  1  1  S  A  A  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 6, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier2 info: y = 4, x = 7, HP = 22, att = 50, def = 40, mvp = 5
+Player1 Soldie3 info: y = 4, x = 3, HP = 12, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 6, x = 6, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 6, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 6, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 3, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 4, x = 2, HP = 30, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 4, x = 4, HP = 60, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 4, x = 6, HP = 32, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 2, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player1 move 5 finished
+Starting battle between Player2 Knight at (3, 7) and Player1 Soldier2 at (4, 7)
+Attacked piece hp after attack: -7
+Attackied piece dead in battle: Player1 Soldier2
+Starting battle between Player2 Soldier1 at (4, 2) and Player1 Soldie3 at (4, 3)
+Attacked piece hp after attack: 2
+Counter attack between Player1 Soldie3 at (4, 3) and Player2 Soldier1 at (4, 2)
+Attacking piece hp after attack: 20
+Starting battle between Player2 Soldier2 at (4, 4) and Player1 Soldie3 at (4, 3)
+Attacked piece hp after attack: -8
+Attackied piece dead in battle: Player1 Soldie3
+Starting battle between Player2 Soldier3 at (5, 5) and Player1 Soldier1 at (5, 6)
+Attacked piece hp after attack: 72
+Counter attack between Player1 Soldier1 at (5, 6) and Player2 Soldier3 at (5, 5)
+Attacking piece hp after attack: 80
+Starting battle between Player2 Soldier4 at (4, 6) and Player1 Soldier1 at (5, 6)
+Attacked piece hp after attack: 72
+Counter attack between Player1 Soldier1 at (5, 6) and Player2 Soldier4 at (4, 6)
+Attacking piece hp after attack: 24
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  a  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  k  3  0  0  0  2  1  1
+  1  1  s  2  s  1  s  3  3  1  1  2  2  3  3
+  3  3  1  1  2  s  S  K  3  2  2  2  2  2  2
+  2  2  2  1  1  1  S  A  A  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 5, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 6, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 6, x = 6, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 6, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 6, x = 8, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 3, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 4, x = 2, HP = 20, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 4, x = 4, HP = 60, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Soldier4 info: y = 4, x = 6, HP = 24, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 2, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 move 5 finished
+Starting battle between Player1 Knight at (4, 7) and Player2 Soldier4 at (4, 6)
+Attacked piece hp after attack: -15
+Attackied piece dead in battle: Player2 Soldier4
+Starting battle between Player1 Soldier1 at (5, 6) and Player2 Soldier3 at (5, 5)
+Attacked piece hp after attack: 80
+Counter attack between Player2 Soldier3 at (5, 5) and Player1 Soldier1 at (5, 6)
+Attacking piece hp after attack: 72
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  a  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  k  3  0  0  0  2  1  1
+  1  1  s  2  s  1  1  K  3  1  1  2  2  3  3
+  3  3  1  1  2  s  S  S  3  2  2  2  2  2  2
+  2  2  2  1  1  1  A  A  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 4, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 6, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 5, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 6, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 6, x = 6, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 3, x = 7, HP = 100, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 4, x = 2, HP = 20, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 4, x = 4, HP = 60, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 2, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player1 move 6 finished
+Starting battle between Player2 Knight at (3, 7) and Player1 Knight at (4, 7)
+Attacked piece hp after attack: 87
+Counter attack between Player1 Knight at (4, 7) and Player2 Knight at (3, 7)
+Attacking piece hp after attack: 77
+Starting battle between Player2 Soldier1 at (4, 6) and Player1 Soldier1 at (5, 6)
+Attacked piece hp after attack: 72
+Counter attack between Player1 Soldier1 at (5, 6) and Player2 Soldier1 at (4, 6)
+Attacking piece hp after attack: 12
+Starting battle between Player2 Soldier2 at (6, 5) and Player1 Archer2 at (6, 6)
+Attacked piece hp after attack: 15
+Counter attack between Player1 Archer2 at (6, 6) and Player2 Soldier2 at (6, 5)
+Attacking piece hp after attack: 60
+Starting battle between Player2 Soldier3 at (5, 5) and Player1 Soldier1 at (5, 6)
+Attacked piece hp after attack: 72
+Counter attack between Player1 Soldier1 at (5, 6) and Player2 Soldier3 at (5, 5)
+Attacking piece hp after attack: 80
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  a  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  k  3  0  0  0  2  1  1
+  1  1  2  2  2  1  s  K  3  1  1  2  2  3  3
+  3  3  1  1  2  s  S  S  3  2  2  2  2  2  2
+  2  2  2  1  1  s  A  A  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 4, x = 7, HP = 87, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 6, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 5, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 6, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player1 Archer2 info: y = 6, x = 6, HP = 15, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 3, x = 7, HP = 77, att = 65, def = 40, mvp = 8
+Player2 Soldier1 info: y = 4, x = 6, HP = 12, att = 50, def = 40, mvp = 5
+Player2 Soldier2 info: y = 6, x = 5, HP = 60, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 2, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 move 6 finished
+Starting battle between Player1 Knight at (4, 7) and Player2 Soldier1 at (4, 6)
+Attacked piece hp after attack: -27
+Attackied piece dead in battle: Player2 Soldier1
+Starting battle between Player1 Soldier1 at (5, 6) and Player2 Soldier3 at (5, 5)
+Attacked piece hp after attack: 80
+Counter attack between Player2 Soldier3 at (5, 5) and Player1 Soldier1 at (5, 6)
+Attacking piece hp after attack: 72
+Starting battle between Player1 Archer2 at (6, 6) and Player2 Soldier2 at (6, 5)
+Attacked piece hp after attack: 60
+Counter attack between Player2 Soldier2 at (6, 5) and Player1 Archer2 at (6, 6)
+Attacking piece hp after attack: -20
+Attacking piece dead in battle: Player1 Archer2
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  a  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  k  3  0  0  0  2  1  1
+  1  1  2  2  2  1  1  K  3  1  1  2  2  3  3
+  3  3  1  1  2  s  S  S  3  2  2  2  2  2  2
+  2  2  2  1  1  s  2  A  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 4, x = 7, HP = 87, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 6, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 5, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 6, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 3, x = 7, HP = 77, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 6, x = 5, HP = 60, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 2, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player1 move 7 finished
+Starting battle between Player2 Knight at (3, 7) and Player1 Knight at (4, 7)
+Attacked piece hp after attack: 74
+Counter attack between Player1 Knight at (4, 7) and Player2 Knight at (3, 7)
+Attacking piece hp after attack: 54
+Starting battle between Player2 Soldier2 at (4, 6) and Player1 Soldier1 at (5, 6)
+Attacked piece hp after attack: 72
+Counter attack between Player1 Soldier1 at (5, 6) and Player2 Soldier2 at (4, 6)
+Attacking piece hp after attack: 52
+Starting battle between Player2 Soldier3 at (5, 5) and Player1 Soldier1 at (5, 6)
+Attacked piece hp after attack: 72
+Counter attack between Player1 Soldier1 at (5, 6) and Player2 Soldier3 at (5, 5)
+Attacking piece hp after attack: 80
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  a  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  k  3  0  0  0  2  1  1
+  1  1  2  2  2  1  s  K  3  1  1  2  2  3  3
+  3  3  1  1  2  s  S  S  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  A  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 4, x = 7, HP = 74, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 6, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 5, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 6, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 3, x = 7, HP = 54, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 4, x = 6, HP = 52, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 2, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 move 7 finished
+Starting battle between Player1 Knight at (4, 7) and Player2 Soldier2 at (4, 6)
+Attacked piece hp after attack: 13
+Counter attack between Player2 Soldier2 at (4, 6) and Player1 Knight at (4, 7)
+Attacking piece hp after attack: 74
+Starting battle between Player1 Soldier1 at (5, 6) and Player2 Soldier2 at (4, 6)
+Attacked piece hp after attack: 5
+Counter attack between Player2 Soldier2 at (4, 6) and Player1 Soldier1 at (5, 6)
+Attacking piece hp after attack: 72
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  a  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  k  3  0  0  0  2  1  1
+  1  1  2  2  2  1  s  K  3  1  1  2  2  3  3
+  3  3  1  1  2  s  S  S  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  A  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 4, x = 7, HP = 74, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 6, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 5, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 6, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 3, x = 7, HP = 54, att = 65, def = 40, mvp = 8
+Player2 Soldier2 info: y = 4, x = 6, HP = 5, att = 50, def = 40, mvp = 5
+Player2 Soldier3 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 2, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player1 move 8 finished
+Starting battle between Player2 Knight at (3, 7) and Player1 Knight at (4, 7)
+Attacked piece hp after attack: 61
+Counter attack between Player1 Knight at (4, 7) and Player2 Knight at (3, 7)
+Attacking piece hp after attack: 31
+Starting battle between Player2 Soldier2 at (4, 6) and Player1 Knight at (4, 7)
+Attacked piece hp after attack: 61
+Counter attack between Player1 Knight at (4, 7) and Player2 Soldier2 at (4, 6)
+Attacking piece hp after attack: -34
+Attacking piece dead in battle: Player2 Soldier2
+Starting battle between Player2 Soldier3 at (5, 5) and Player1 Soldier1 at (5, 6)
+Attacked piece hp after attack: 72
+Counter attack between Player1 Soldier1 at (5, 6) and Player2 Soldier3 at (5, 5)
+Attacking piece hp after attack: 80
+Current position:
+  2  2  2  1  3  1  1  c  1  1  1  1  1  2  1
+  2  1  1  1  1  1  1  1  1  1  1  1  2  2  1
+  1  1  1  3  3  1  1  a  1  1  1  2  2  2  1
+  1  1  0  0  3  3  1  k  3  0  0  0  2  1  1
+  1  1  2  2  2  1  1  K  3  1  1  2  2  3  3
+  3  3  1  1  2  s  S  S  3  2  2  2  2  2  2
+  2  2  2  1  1  1  2  A  2  2  2  2  1  2  2
+  3  3  2  1  1  1  2  2  0  2  2  1  1  0  2
+  0  3  2  2  2  2  2  2  2  0  2  1  1  0  2
+  0  3  2  2  2  2  2  3  1  1  1  1  1  2  3
+  3  2  2  2  1  1  3  1  1  0  0  1  1  0  0
+  2  2  0  0  1  1  1  1  1  1  0  1  1  3  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  3
+  2  2  1  1  1  1  1  1  1  1  1  1  1  1  2
+  2  1  1  1  1  1  1  C  1  1  1  1  1  1  0
+Player1 Castle info: y = 14, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player1 Knight info: y = 4, x = 7, HP = 61, att = 65, def = 40, mvp = 8
+Player1 Soldier1 info: y = 5, x = 6, HP = 72, att = 50, def = 40, mvp = 5
+Player1 Soldier4 info: y = 5, x = 7, HP = 80, att = 50, def = 40, mvp = 5
+Player1 Archer1 info: y = 6, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 Castle info: y = 0, x = 7, HP = 150, att = 90, def = 30, mvp = 1
+Player2 Knight info: y = 3, x = 7, HP = 31, att = 65, def = 40, mvp = 8
+Player2 Soldier3 info: y = 5, x = 5, HP = 80, att = 50, def = 40, mvp = 5
+Player2 Archer2 info: y = 2, x = 7, HP = 50, att = 50, def = 40, mvp = 5
+Player2 move 8 finished
+Starting battle between Player1 Knight at (3, 6) and Player2 Knight at (3, 7)
+Attacked piece hp after attack: 8
+Counter attack between Player2 Knight at (3, 7) and Player1 Knight at (3, 6)
+Attacking piece hp after attack: 38
